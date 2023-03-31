@@ -7,7 +7,7 @@ print(add(3,3))
 
 
 
-# Using lambda funtion in another function:
+# Using lambda funtion in another function: 
 
 
 def lambda_func(j,k):

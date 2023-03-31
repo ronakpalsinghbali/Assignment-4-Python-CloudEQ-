@@ -18,7 +18,7 @@ with open("SpecialFile.txt","w") as f:
 #(iii) Appending to a file.
 with open("SpecialFile.txt","a") as f:
  
- f.write("This special 2nd line has been appened by Python itself.\n")    
+ f.write("This special 2nd line has been appened by Python itself..\n")    
                                                    
 
 
@@ -39,7 +39,7 @@ with open("SpecialFile.txt","r") as f:
 #(vi) Reading the first line from the file.
 
 with open("SpecialFile.txt","r") as f:
- spell = f.readline()                      # This will read the first line of the file.
+ spell = f.readline()                     # This will read the first line of the file.
  print(spell)
 
 

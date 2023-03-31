@@ -3,7 +3,7 @@
 
 print("Program to calculate the Sum of numbers from 1 to n")
 
-#(i) Taking input from the user.
+#(i) Taking input from the user. 
 
 user_input = int(input("Enter the value of \'n\': "))      
 
